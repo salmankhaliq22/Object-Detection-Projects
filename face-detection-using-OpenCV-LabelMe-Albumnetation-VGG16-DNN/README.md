@@ -21,6 +21,9 @@
     ├── README.md          <- The top-level README for developers/collaborators using this project.
     │ 
     │
+    ├── Demo               <- Folder containing the demo videos and gif
+    |
+    |
     ├── aug_data           <- Folder containing the augmented data
     │   └── train          <- training data
     │       └── images     <- training images in .jpg format
