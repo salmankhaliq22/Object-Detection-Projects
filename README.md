@@ -2,7 +2,7 @@
 
 **This repo contains all the projects related to object detection, OpenCV, MediaPipe, Computer Vision, LabelMe, ALbumentation, VGG16, SSD architectures**
 
-## 1. Face detection
+## 1. [Face detection](https://github.com/salmankhaliq22/Object-Detection-Projects/tree/main/face-detection-using-OpenCV-LabelMe-Albumnetation-VGG16-DNN)
   - We started with getting Images using OpenCV
   - Then we labeled the images using LabelMe i-e (bounding box around the face) 
   - Then we Augmented those images and labels using Albumentation
@@ -12,7 +12,7 @@
   
   ### How to run the working project?
   - You need to run ``!pip install labelme tensorflow tensorflow-gpu opencv-python matplotlib albumentations os time uuid json`` at the beginning if these libraries are not installed
-  - If you want to see the project work just load the facetracker.h5 model and run the "11.3 Real Time Detection" in the notebook [02-Test-in-Real-Time.ipynb](02-Test-in-Real-Time.ipynb)"Building-DNN.ipynb"
+  - If you want to see the project working, just run the [04-Real-Time-Detection.ipynb](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/face-detection-using-OpenCV-LabelMe-Albumnetation-VGG16-DNN/04-Real-Time-Detection.ipynb) notebook
   - a pop up window will open and move around to see the face detection working
   - To get out from the loop press **"q"** key on keyboard
   
@@ -30,7 +30,7 @@
   
   ### How to run the working project?
   - You need to run ``!pip install tensorflow tensorflow-gpu opencv-python matplotlib mediapipe sklearn numpy os time`` at the beginning if these libraries are not installed
-  - If you want to see the project work just run the [02-Test-in-Real-Time.ipynb](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN/02-Test-in-Real-Time.ipynb) notebook
+  - If you want to see the project working, just run the [02-Test-in-Real-Time.ipynb](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN/02-Test-in-Real-Time.ipynb) notebook
   - a pop up window will open and do the signs in the gif below
   - To get out from the loop press **"q"** key on keyboard
   
