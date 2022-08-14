@@ -12,6 +12,9 @@
   - a pop up window will open and move around to see the face detection working
   - To get out from the loop press **"q"** key on keyboard
   
+  ### Demo
+  ![Face Detection](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/face-detection-using-OpenCV-LabelMe-Albumnetation-VGG16-DNN/Demo/Demo_2_AdobeExpress.gif)
+  
 ## Project Structure
 
     ├── LICENSE
