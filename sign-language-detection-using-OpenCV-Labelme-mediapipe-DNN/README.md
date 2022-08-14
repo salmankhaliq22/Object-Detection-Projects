@@ -21,3 +21,28 @@
   |---|---|---|
   | ![Hello](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN/Demo/hello_AdobeExpress.gif) |  ![Thank You](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN/Demo/Thank_you_AdobeExpress.gif) |   ![I Love You](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN/Demo/ILU_AdobeExpress.gif) |
   
+  
+  ## Project Structure
+
+    ├── LICENSE
+    ├── README.md          <- The top-level README for developers/collaborators using this project.
+    │ 
+    │
+    ├── Demo               <- Folder containing the demo videos and gif
+    |
+    |
+    ├── Logs/train         <- Folder containing the training logs
+    |
+    |
+    ├── MP_Data            <- Folder containing data gathered using mediapipe holistics
+    │   └── hello          <- folder containing data for hello sign
+    │   └── iloveyou       <- folder containing data for iloveyou sign
+    │   └── thanks         <- folder containing data for thankyou sign
+    |
+    |
+    ├── 0.npy                                <- numpy file containing zeros
+    ├── 01-Getting-Data.ipynb                <- Notebooks containing code for getting data, labelling data, and partitioning and training LSTM model
+    ├── 02-Test-in-Real-Time.ipynb           <- Notebooks containing augmentation pipeline
+    ├── action.h5                            <- saved model weights
+    
+    
