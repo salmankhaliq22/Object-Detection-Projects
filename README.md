@@ -11,6 +11,7 @@
   - Model was saved in h5 file "facetracker.h5"
   
   ### How to run the working project?
+  - You need to run ``!pip install labelme tensorflow tensorflow-gpu opencv-python matplotlib albumentations os time uuid json`` at the beginning if these libraries are not installed
   - If you want to see the project work just load the facetracker.h5 model and run the "11.3 Real Time Detection" in the notebook "Building-DNN.ipynb"
   - a pop up window will open and move around to see the face detection working
   - To get out from the loop press **"q"** key on keyboard
@@ -28,6 +29,7 @@
   - Then we saved our model as "action.h5" 
   
   ### How to run the working project?
-  - If you want to see the project work just load the action.h5 model and run the "11. Test in Real Time" in the notebook "Building-DNN.ipynb"
-  - a pop up window will open and move around to see the face detection working
+  - You need to run ``!pip install tensorflow tensorflow-gpu opencv-python matplotlib mediapipe sklearn numpy os time`` at the beginning if these libraries are not installed
+  - If you want to see the project work just run the "02-Test-in-Real-Time.ipynb" notebook
+  - a pop up window will open and do the signs in the gif below
   - To get out from the loop press **"q"** key on keyboard
