@@ -35,18 +35,8 @@
   - To get out from the loop press **"q"** key on keyboard
   
   ### Demo
-  Hello   
+  | Hello  | Thank You  |  I Love You |
+  |---|---|---|
+  | ![Hello](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN/Demo/hello_AdobeExpress.gif) |  ![Thank You](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN/Demo/Thank_you_AdobeExpress.gif) |   ![I Love You](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN/Demo/ILU_AdobeExpress.gif) |
   
   
-  ![Hello](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN/Demo/hello_AdobeExpress.gif)
-  
-  Thank you   
-  
-  
-  ![Thank You](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN/Demo/Thank_you_AdobeExpress.gif)
-  
-  I Love You   
-  
-  
-  ![I Love You](https://github.com/salmankhaliq22/Object-Detection-Projects/blob/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN/Demo/ILU_AdobeExpress.gif)
-
