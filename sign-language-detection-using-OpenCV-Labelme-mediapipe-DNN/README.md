@@ -1,4 +1,4 @@
-## 2. [Sign Language Detection Usin OpenCV, MediaPipe Holistic and LSTM Model](https://github.com/salmankhaliq22/Object-Detection-Projects/tree/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN)
+## [Sign Language Detection Usin OpenCV, MediaPipe Holistic and LSTM Model](https://github.com/salmankhaliq22/Object-Detection-Projects/tree/main/sign-language-detection-using-OpenCV-Labelme-mediapipe-DNN)
   - We used Open CV to get the images and MediaPipe Holistics for landmark detection
   - Then we extracted keypoints for "pose", "face", "left hand", and "right hand"
   - Then we set up folder to save our data
