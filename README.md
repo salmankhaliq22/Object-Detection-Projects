@@ -2,7 +2,7 @@
 
 **This repo contains all the projects related to object detection, OpenCV, MediaPipe, Computer Vision, LabelMe, ALbumentation, VGG16, SSD architectures**
 
-## 1. [Face detection Using OpenCV, LabelMe, Albumentation, VGG16, and Functional API DNN](https://github.com/salmankhaliq22/Object-Detection-Projects/tree/main/face-detection-using-OpenCV-LabelMe-Albumnetation-VGG16-DNN)
+## 1. [Face detection Using OpenCV, LabelMe, Albumentation, TensorFlow, Keras, VGG16](https://github.com/salmankhaliq22/Object-Detection-Projects/tree/main/face-detection-using-OpenCV-LabelMe-Albumnetation-VGG16-DNN)
   - We started with getting Images using OpenCV
   - Then we labeled the images using LabelMe i-e (bounding box around the face) 
   - Then we Augmented those images and labels using Albumentation
